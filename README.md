@@ -1,24 +1,11 @@
-# README
+# Glazier Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the [*Glazier Application*]
 
-Things you may want to cover:
+by [Anderson Clayton](http://www.andersonclayton.com/).
 
-* Ruby version
+## License
 
-* System dependencies
+All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
+is available on Git Hub.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
